@@ -2,25 +2,11 @@
 
 **WEBS **
 
-
-**[Poe.trade](http://poe.trade)**
-
-Sitio principal para tradear items, currency y cualquier objeto que se quiera en el juego.
-
-**[Poeapp](http://poeapp.com)**
-
-Alternativa a poe.trade, diferentes opciones y muchas veces menos saturada.
-
-
-
-**[Poe official trade](https://www.pathofexile.com/trade)**
-
-Página oficial de GGG para el tradeo de items y currency, en todos los idiomas.
-
-
-**[Poe.ninja](https://poe.ninja/)**
-
-Evolución en el mercado de los distintos items del juego, historial de precios, para ver subidas y bajadas en distintos objetos.
+### Webs
+- [Poe.trade](http://poe.trade) Sitio principal para tradear items, currency y cualquier objeto que se quiera en el juego.
+- [Poeapp](http://poeapp.com) Alternativa a poe.trade, diferentes opciones y muchas veces menos saturada.
+- [Poe official trade](https://www.pathofexile.com/trade) Página oficial de GGG para el tradeo de items y currency, en todos los idiomas.
+- [Poe.ninja](https://poe.ninja/) Evolución en el mercado de los distintos items del juego, historial de precios, para ver subidas y bajadas en distintos objetos.
 
 
 **[Poe-rates](http://poe-rates.com/)**
