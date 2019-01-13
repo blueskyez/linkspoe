@@ -31,3 +31,5 @@
 - [Mercury Trade](https://github.com/Exslims/MercuryTrade) Programa que hace más fácil el trade, añade una GUI en pantalla que se puede usar con ratón.
 - [POE-Trades-Companion](https://github.com/lemasato/POE-Trades-Companion) Alternativa a Mercury Trade.
 - [Filtration](https://github.com/ben-wallis/Filtration) Software para editar filtros.
+
+https://docs.google.com/spreadsheets/d/1BQVhe_4f2ujyzhQ9uKbAkU_j1bOUKCDxpjwdVx8MfV4/htmlview?usp=sharing&sle=true
